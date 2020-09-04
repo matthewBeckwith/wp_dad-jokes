@@ -1,5 +1,3 @@
-# Dad Jokes
-
 ![Screenshot](./screenshots/widget.png)
 
 ### Wordpress Admin Dashboard Widget Plugin
