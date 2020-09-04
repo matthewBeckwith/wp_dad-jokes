@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Dad Jokes
-Plugin URI: http://matthewbeckwith.epizy.com/
+Plugin URI: https://github.com/matthewBeckwith/wp_dad-jokes
 Description: Pulls a random dad joke to display on the admin side
 Version: 1.0
 Author: Matthew Beckwith
